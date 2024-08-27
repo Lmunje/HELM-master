@@ -90,7 +90,7 @@ tolerations: []
 affinity: {}
 
 mysql :
-  enabled : true
+  enabled : false
   auth :
     database : "my_custom_db"
     username : "customowner"
